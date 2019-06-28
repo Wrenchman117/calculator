@@ -1,0 +1,19 @@
+E:\college stuff\visual comp\proyecto2\proyecto2\bin\Debug\proyecto2.exe.config
+E:\college stuff\visual comp\proyecto2\proyecto2\bin\Debug\proyecto2.exe
+E:\college stuff\visual comp\proyecto2\proyecto2\bin\Debug\proyecto2.pdb
+E:\college stuff\visual comp\proyecto2\proyecto2\bin\Debug\proyecto2.xml
+E:\college stuff\visual comp\proyecto2\proyecto2\obj\Debug\proyecto2.Form1.resources
+E:\college stuff\visual comp\proyecto2\proyecto2\obj\Debug\proyecto2.Form2.resources
+E:\college stuff\visual comp\proyecto2\proyecto2\obj\Debug\proyecto2.Resources.resources
+E:\college stuff\visual comp\proyecto2\proyecto2\obj\Debug\proyecto2.vbproj.GenerateResource.Cache
+E:\college stuff\visual comp\proyecto2\proyecto2\obj\Debug\proyecto2.exe
+E:\college stuff\visual comp\proyecto2\proyecto2\obj\Debug\proyecto2.xml
+E:\college stuff\visual comp\proyecto2\proyecto2\obj\Debug\proyecto2.pdb
+D:\college stuff\visual comp\proyecto2\proyecto2\bin\Debug\proyecto2.exe.config
+D:\college stuff\visual comp\proyecto2\proyecto2\obj\Debug\proyecto2.exe
+D:\college stuff\visual comp\proyecto2\proyecto2\obj\Debug\proyecto2.xml
+D:\college stuff\visual comp\proyecto2\proyecto2\obj\Debug\proyecto2.pdb
+E:\college stuff\visual comp\WILSON RIVERA SANCHEZ P00462702 PROJECTO ESP1\proyecto2\bin\Debug\proyecto2.exe.config
+E:\college stuff\visual comp\WILSON RIVERA SANCHEZ P00462702 PROJECTO ESP1\proyecto2\obj\Debug\proyecto2.exe
+E:\college stuff\visual comp\WILSON RIVERA SANCHEZ P00462702 PROJECTO ESP1\proyecto2\obj\Debug\proyecto2.xml
+E:\college stuff\visual comp\WILSON RIVERA SANCHEZ P00462702 PROJECTO ESP1\proyecto2\obj\Debug\proyecto2.pdb
